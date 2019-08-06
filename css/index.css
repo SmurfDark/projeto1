@@ -11,3 +11,17 @@ body{
     display: block;
     margin: auto;
 }
+body > nav {
+    display: flex;
+    justify-content: center;
+}
+body > nav > a{
+    display: inline-block;
+    padding: .5rem;
+    text-decoration: none;
+    color: steelblue;
+}
+body > nav > a:hover {
+    color: pink;
+    background: black;
+}
