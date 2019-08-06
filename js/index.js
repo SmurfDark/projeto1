@@ -4,5 +4,3 @@ var img = document.getElementsByTagName("img")[0]
 document.addEventListener(img, function{
     alert('clicou');
 }, false);
-
-document.addEventListener('img')[0]
