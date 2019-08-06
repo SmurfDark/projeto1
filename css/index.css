@@ -2,5 +2,11 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    background-color: firebrick;
+    background-color: darkorange;
+}
+.imagem{
+    width: 1024px;
+    height: auto;
+    display: block;
+    margin: auto;
 }
